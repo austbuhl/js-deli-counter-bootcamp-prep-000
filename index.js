@@ -23,5 +23,5 @@ function currentLine(line) {
       array.push(` `+[i+1]+`. ` + line[i])
     }
   }
-  return "The line is currenty:" + array
+  return "The line is currently:" + array
 }
